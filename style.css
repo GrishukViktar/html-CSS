@@ -1,0 +1,18 @@
+body{
+	padding: 2px;
+}
+p.test{
+	border: 2px double #f53;
+}
+p.test2{
+	border: 1px solid #693;
+	background: red;
+	border-radius: 16px;
+	padding: 5px;
+}
+li{
+	display: inlain;
+}
+p{
+	box-shadow: inset 4px 4px 8px #000;
+}
